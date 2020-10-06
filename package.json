@@ -1,0 +1,27 @@
+{
+  "name": "pug-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yowi0#1234",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.2.0",
+    "express": "^4.13.4",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "got": "^11.5.1",
+    "https": "^1.0.0",
+    "math.js": "^1.1.46",
+    "mathjs": "^7.1.0",
+    "mysql": "^2.10.2",
+    "opusscript": "0.0.7",
+    "path": "^0.12.7",
+    "ytdl-core": "^3.1.2"
+  }
+}
